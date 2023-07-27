@@ -1,0 +1,6 @@
+[theme]
+primaryColor="#ff0000" # red
+backgroundColor="#000000" # black
+secondaryBackgroundColor="#696969" # gray
+textColor="#FFFFFF" # 白
+font="sans serif"
